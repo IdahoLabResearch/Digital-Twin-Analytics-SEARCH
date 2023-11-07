@@ -1,0 +1,6 @@
+# Copyright 2023 Battelle Energy Alliance ALL RIGHTS RESERVED
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+!chem_data.rda
