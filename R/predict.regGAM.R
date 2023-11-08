@@ -3,6 +3,7 @@
 #' Predict Generalized Linear Model.
 #'
 #' Copyright 2023 Battelle Energy Alliance ALL RIGHTS RESERVED
+#' 
 #' @inheritParams predict.regLM
 #' @return predicted (list of scalar vectors) The predicted values of train and
 #' test.

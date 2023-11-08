@@ -1,8 +1,7 @@
 #' Predict Principal Component Regression
 #'
-#' Predict Principal Component Regression
-#'
 #' Copyright 2023 Battelle Energy Alliance ALL RIGHTS RESERVED
+#' 
 #' @param object (object) A fit object.
 #' @param x (list) A list containing [x], the set of independent variables and
 #' [y], the response.

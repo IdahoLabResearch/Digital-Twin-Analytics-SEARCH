@@ -6,6 +6,7 @@
 #' determines if the metric was from the training or test set.
 #'
 #' Copyright 2023 Battelle Energy Alliance ALL RIGHTS RESERVED
+#' 
 #' @param df (data frame) The numeric values to be scaled.
 #' @return fig (plotly figure) The descaled values of x.
 #'

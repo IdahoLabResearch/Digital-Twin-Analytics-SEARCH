@@ -1,3 +1,4 @@
+# Copyright 2023 Battelle Energy Alliance ALL RIGHTS RESERVED
 library(shiny)
 library(search)
 library(plotly)

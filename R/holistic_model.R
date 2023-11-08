@@ -1,3 +1,4 @@
+# Copyright 2023 Battelle Energy Alliance ALL RIGHTS RESERVED
 #' @rdname holistic_model
 #' @export
 holistic_model.default = function(object, ...) {

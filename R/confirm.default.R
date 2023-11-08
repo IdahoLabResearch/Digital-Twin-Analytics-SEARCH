@@ -1,3 +1,4 @@
+# Copyright 2023 Battelle Energy Alliance ALL RIGHTS RESERVED
 #' @export
 confirm.default = function(x, ...) {
   x$observed == x$predicted
