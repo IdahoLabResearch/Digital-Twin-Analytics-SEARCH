@@ -3,7 +3,7 @@ Type: Package
 Title: Generic package for initial application of machine learning models
 Version: 0.1.0
 Author: M. Ross Kunz, Katherine Wilsdon, Shaw Wen, Dawn Galloway, Thomas Conley
-Maintainer: Katherine Wilsdon <katherine.wilsdon@inl.gov>
+Maintainer: Katherine Wilsdon <katherine.jesse@inl.gov>
 Description: A simple package for determining a set of potential algorithms 
     applicable to a data set. Ideally, this will reduce the development 
     requirements when applying machine learning to a digital twin.
