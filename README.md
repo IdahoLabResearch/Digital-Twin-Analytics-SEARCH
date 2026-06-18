@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository has been archived and is no longer maintained.**
+> The code is provided for historical reference and may contain unpatched
+> or unknown vulnerabilities. It should not be used in production systems.
+
+---
+
 # Digital-Twin-Analytics-SEARCH
 
 Data scientists use machine learning to analyze and predict information for digital twins, but the selection of an appropriate model is time consuming, repetitive, requires specialized knowledge, and can lead to an unintended bias or preference for the chosen model. The SEARCH (Store, Explore, Assess, Reduce, Confirm, and Holistic) digital analytics platform will provide initial data exploration of an unknown data set. The initial framework will perform analysis on a given dataset to pre-process the data, determine which algorithms are candidates for analysis, perform dimension reduction, validate results over multiple imputations of the data, provide documentation for ease of use, and display the analytics on a graphical user interface (GUI).
